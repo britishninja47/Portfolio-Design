@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) Portfolio project that I designed completly resposive to any device being used.
+This is a [Next.js](https://nextjs.org/) Portfolio project that I designed completly resposive to any device being used. Also added a dark mode to the page.
 ![alt text](https://github.com/britishninja47/Portfolio-Design/blob/master/Portfolio-shot.png)
 ![alt text](https://github.com/britishninja47/Portfolio-Design/blob/master/Portfolio-shot-2.png)
 ![alt text](https://github.com/britishninja47/Portfolio-Design/blob/master/Portfolio-shot-3.png)
